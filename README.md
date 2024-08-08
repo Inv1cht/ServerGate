@@ -23,8 +23,6 @@ ServerGate is a robust and lightweight server loader system designed for managin
 Edit the `server_config.json` file to adjust server settings such as resource limits, logging preferences, and more.
 
 ### Run ServerGate
-To start the server: ```./servergate start ```
-
-Monitor the server status: ```./servergate status```
-
-To stop the server: ```./servergate stop```
+To start the server: `./servergate start `
+Monitor the server status: `./servergate status`
+To stop the server: `./servergate stop`
