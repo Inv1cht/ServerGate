@@ -24,5 +24,7 @@ Edit the `server_config.json` file to adjust server settings such as resource li
 
 ### Run ServerGate
 To start the server: ```./servergate start ```
+
 Monitor the server status: ```./servergate status```
+
 To stop the server: ```./servergate stop```
