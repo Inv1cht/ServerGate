@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\server\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\server\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\server\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\server\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\server\\commands\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\server\\commands\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\main\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\main\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\console\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\console\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\server\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\server\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\server\\silentcrashhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\server\\silentcrashhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\main\\config\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\main\\config\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\console\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\console\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\events\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\events\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\main\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\main\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\console\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\console\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\main\\config\\mainconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\main\\config\\mainconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\main\\introduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\main\\introduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\server\\commands\\consolecommandattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\server\\commands\\consolecommandattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\events\\args\\receivingactioneventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\events\\args\\receivingactioneventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\events\\args\\receivingmessageeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\events\\args\\receivingmessageeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\events\\args\\stoppingservereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\events\\args\\stoppingservereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\events\\args\\startingservereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\events\\args\\startingservereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\events\\args\\restartingservereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\events\\args\\restartingservereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|c:\\users\\mckin\\documents\\github\\servergate\\servergate\\features\\events\\args\\receivinginputeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C931BB02-617B-48C5-AD84-7A093B1EC056}|ServerGate\\ServerGate.csproj|solutionrelative:servergate\\features\\events\\args\\receivinginputeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameServer.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Server\\GameServer.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Server\\GameServer.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Server\\GameServer.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Server\\GameServer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAFgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:24:32.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Program.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Program.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Program.cs",
+              "RelativeToolTip": "ServerGate\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAEwDoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:06:26.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Server\\Commands\\CommandHandler.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Server\\Commands\\CommandHandler.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Server\\Commands\\CommandHandler.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Server\\Commands\\CommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:37:58.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TcpServer.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Server\\TcpServer.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Server\\TcpServer.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Server\\TcpServer.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Server\\TcpServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:28:51.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Main\\InputManager.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Main\\InputManager.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Main\\InputManager.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Main\\InputManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:35:13.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Console\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Console\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Console\\ConsoleLogger.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Console\\ConsoleLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:22:03.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Server\\Utils.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Server\\Utils.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Server\\Utils.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Server\\Utils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:35:40.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SilentCrashHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Server\\SilentCrashHandler.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Server\\SilentCrashHandler.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Server\\SilentCrashHandler.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Server\\SilentCrashHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:58:12.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Main\\Config\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Main\\Config\\ConfigManager.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Main\\Config\\ConfigManager.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Main\\Config\\ConfigManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:17:48.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Console\\Logger.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Console\\Logger.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Console\\Logger.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Console\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:24:04.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Events\\Handler.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Events\\Handler.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Events\\Handler.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Events\\Handler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:52:49.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Main\\FileManager.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Main\\FileManager.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Main\\FileManager.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Main\\FileManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:19:25.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Colors.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Console\\Colors.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Console\\Colors.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Console\\Colors.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Console\\Colors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:46:50.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainConfig.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Main\\Config\\MainConfig.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Main\\Config\\MainConfig.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Main\\Config\\MainConfig.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Main\\Config\\MainConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:18:21.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Introduction.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Main\\Introduction.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Main\\Introduction.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Main\\Introduction.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Main\\Introduction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:20:02.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConsoleCommandAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Server\\Commands\\ConsoleCommandAttribute.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Server\\Commands\\ConsoleCommandAttribute.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Server\\Commands\\ConsoleCommandAttribute.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Server\\Commands\\ConsoleCommandAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:38:18.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReceivingActionEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Events\\Args\\ReceivingActionEventArgs.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Events\\Args\\ReceivingActionEventArgs.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Events\\Args\\ReceivingActionEventArgs.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Events\\Args\\ReceivingActionEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:56:14.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReceivingMessageEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Events\\Args\\ReceivingMessageEventArgs.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Events\\Args\\ReceivingMessageEventArgs.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Events\\Args\\ReceivingMessageEventArgs.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Events\\Args\\ReceivingMessageEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:56:45.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StoppingServerEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Events\\Args\\StoppingServerEventArgs.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Events\\Args\\StoppingServerEventArgs.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Events\\Args\\StoppingServerEventArgs.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Events\\Args\\StoppingServerEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:57:31.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StartingServerEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Events\\Args\\StartingServerEventArgs.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Events\\Args\\StartingServerEventArgs.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Events\\Args\\StartingServerEventArgs.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Events\\Args\\StartingServerEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:57:15.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RestartingServerEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Events\\Args\\RestartingServerEventArgs.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Events\\Args\\RestartingServerEventArgs.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Events\\Args\\RestartingServerEventArgs.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Events\\Args\\RestartingServerEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:56:55.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReceivingInputEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Events\\Args\\ReceivingInputEventArgs.cs",
+              "RelativeDocumentMoniker": "ServerGate\\Features\\Events\\Args\\ReceivingInputEventArgs.cs",
+              "ToolTip": "C:\\Users\\mckin\\Documents\\GitHub\\ServerGate\\ServerGate\\Features\\Events\\Args\\ReceivingInputEventArgs.cs",
+              "RelativeToolTip": "ServerGate\\Features\\Events\\Args\\ReceivingInputEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:56:42.984Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

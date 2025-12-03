@@ -1,0 +1,2 @@
+C:\Users\mckin\Documents\GitHub\Releases\ServerGate\ServerGate.pdb
+C:\Users\mckin\Documents\GitHub\Releases\ServerGate\ServerGate.exe

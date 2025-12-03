@@ -1,0 +1,10 @@
+C:\Users\mckin\Documents\GitHub\Releases\ServerGate\ServerGate.exe
+C:\Users\mckin\Documents\GitHub\Releases\ServerGate\ServerGate.dll
+C:\Users\mckin\Documents\GitHub\Releases\ServerGate\ServerGate.deps.json
+C:\Users\mckin\Documents\GitHub\Releases\ServerGate\ServerGate.runtimeconfig.json
+C:\Users\mckin\Documents\GitHub\Releases\ServerGate\ServerGate.pdb
+C:\Users\mckin\Documents\GitHub\Releases\ServerGate\Spectre.Console.dll
+C:\Users\mckin\Documents\GitHub\Releases\ServerGate\Spectre.Console.Cli.dll
+C:\Users\mckin\Documents\GitHub\Releases\ServerGate\de\Spectre.Console.Cli.resources.dll
+C:\Users\mckin\Documents\GitHub\Releases\ServerGate\fr\Spectre.Console.Cli.resources.dll
+C:\Users\mckin\Documents\GitHub\Releases\ServerGate\sv\Spectre.Console.Cli.resources.dll
